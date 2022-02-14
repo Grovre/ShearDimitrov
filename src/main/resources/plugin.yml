@@ -1,0 +1,7 @@
+name: ShearDimitrov
+version: '${project.version}'
+main: me.grovre.sheardimitrov.ShearDimitrov
+api-version: 1.18
+authors: [ PoptartFromPluto ]
+description: When using shears on Dimitrov, breaks the shears and drops his head. Yeah, if your head drops you drop.
+website: https://github.com/grovre
